@@ -1,16 +1,16 @@
 {
-  "name": "dsh-battery-indicator",
+  "name": "dsh-battery-level-indicator",
   "version": "1.2.0",
   "description": "Shows the host computer's battery level and charging state below the composer, on every device",
   "license": "MIT",
   "author": "linbtin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/northstacker/dsh-battery-indicator.git"
+    "url": "git+https://github.com/northstacker/dsh-battery-level-indicator.git"
   },
-  "homepage": "https://github.com/northstacker/dsh-battery-indicator#readme",
+  "homepage": "https://github.com/northstacker/dsh-battery-level-indicator#readme",
   "bugs": {
-    "url": "https://github.com/northstacker/dsh-battery-indicator/issues"
+    "url": "https://github.com/northstacker/dsh-battery-level-indicator/issues"
   },
   "keywords": [
     "deepseek-harness",

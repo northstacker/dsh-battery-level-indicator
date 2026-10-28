@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-battery-indicator',
+  id: 'dsh-battery-level-indicator',
   factory(require) {
     const React = require('react')
     const h = React.createElement

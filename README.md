@@ -1,4 +1,4 @@
-# dsh-battery-indicator
+# dsh-battery-level-indicator
 
 **English** · [简体中文](README.zh-CN.md)
 

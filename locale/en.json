@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Battery Indicator",
+    "title": "Battery level indicator",
     "description": "Shows this computer's battery level and charging state below the message composer, including when the page is open on a phone."
   }
 }
