@@ -1,0 +1,3 @@
+- insert:
+    - id: battery-indicator
+      name: 'dsh-battery-indicator'
